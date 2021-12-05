@@ -6,7 +6,7 @@ A fast experimental Fractal Viewer based on WebGL.
 You can click any location to make that point the center of the image or you can punch in the coordinates for the center on the bottom.  
 Likewise you can enter the axis length or use the scroll wheel to change the zoom level.  
 You can change other parameters of the fractal and which fractal you are using by chaning the inputs on the bottom.  
-Hope this helps people find more interesting parts of the fractal to make higher resolution images of in Python for Assignment 4.1! 
+This was created to expirement with fractals for a school assignment. 
 
 ## How it works in a nutshell:
 This webpage takes advantage of the OpenGL functions available through the WebGL API to use the GPU instead of the CPU to compute the color of each pixel of the fractal.  
