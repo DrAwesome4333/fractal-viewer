@@ -11,4 +11,4 @@ This was created to expirement with fractals for a school assignment.
 ## How it works in a nutshell:
 This webpage takes advantage of the OpenGL functions available through the WebGL API to use the GPU instead of the CPU to compute the color of each pixel of the fractal.  
 There is a dictionary of information on how each fractal should start when doing its algorithm as well has how to advance using the availalbe variables C, P, and the complex input.  
-Obviously there is a lot more going on than that, if you have any questions feel free to email me at DavidMendenhallact4333@gmail.com
+Obviously there is a lot more going on than that.
